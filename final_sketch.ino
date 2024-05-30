@@ -84,9 +84,7 @@ void loop()
       old_value = acceleration;
 
     }
-  //Serial.print("Counter =  ");
-  //Serial.println(counter);
-  //Serial.println(" seconds");
+
 
 
 
