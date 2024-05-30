@@ -1,1 +1,2 @@
 # BionicsForTomorrow
+Contest Managed by a Senior Postdoctoral Associate at MIT. The Contest involved the deployment of a physical prototype of something related to the interaction between humans and robots. My team, which was formed by a Nanomaterial Engineer, a Biomedical Engineer, an Automation Engineer and I, developed a prototype concerning the treatment of Obstructive Sleep Apnea. Our project allowed us to win the first place and to have the possibility to go visiting Boston and MIT, the most prestigious engineering university in the world.
